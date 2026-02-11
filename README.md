@@ -32,18 +32,6 @@ Outside:
 - [ClashX](https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/outside-clashx.lst)
 - [KVAS](https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/outside-kvas.lst)
 
-## Украина
-Список заблокированных ресурсов в Украине. Списки берутся с ресурсов https://uablacklist.net/ и https://zaborona.help/.
-
-Преобразуются в формат Dnsmasq. При этом удаляются домены с кириллическими буквами. 
-
-Находятся в каталоге **Ukraine**.
-
-- [Dnsmasq nfset](https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Ukraine/inside-dnsmasq-nfset.lst)
-- [Dnsmasq ipset](https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Ukraine/inside-dnsmasq-ipset.lst)
-- [ClashX](https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Ukraine/inside-clashx.lst)
-- [KVAS](https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Ukraine/inside-kvas.lst)
-
 # Как добавить домены в списки?
 Приветствуется добавление новых доменов и удаление неактуальных.
 Есть несколько вариантов:
